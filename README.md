@@ -1,5 +1,5 @@
 # todoApi
-Django rest framework, example for learning  
+## Django rest framework, example for learning  
 
 With a minimal amount of code Django REST Framework has allowed us to create a Django API
 from scratch. Unlike our example in the previous chapter, we did not build out any web pages
