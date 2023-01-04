@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 3rd party
     "rest_framework",  # new
-    "corseheaders",  # new
+    "corsheaders",  # new
     # Local
     "todos.apps.TodosConfig",  # new
 ]
